@@ -1,0 +1,2 @@
+potential = 2.89385766
+prssure   = 3.02117942

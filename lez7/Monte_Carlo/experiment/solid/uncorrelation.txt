@@ -1,0 +1,2 @@
+potential = 4.36534883
+pressure  = 4.29512119

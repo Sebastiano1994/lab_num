@@ -1,0 +1,5 @@
+Training points: 10000
+Epochs: 50
+Noise: 10.0
+Test loss: 86.36156463623047
+Test accuracy:86.36156463623047

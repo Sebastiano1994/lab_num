@@ -1,0 +1,6 @@
+2
+1
+
+
+	ReadInput >> passo;
+	ReadInput >> option;
